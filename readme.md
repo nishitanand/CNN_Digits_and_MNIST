@@ -1,0 +1,1 @@
+Part 1: Achieved Best Accuracy of 65.31% and Validation Accuracy of 52.5%
